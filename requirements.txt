@@ -1,0 +1,8 @@
+PyQt5==5.15.9
+pyaudio==0.2.13
+pydub==0.25.1
+librosa==0.10.1
+numpy==1.24.3
+openai-whisper==20230314
+SQLAlchemy==2.0.23
+schedule==1.2.0
