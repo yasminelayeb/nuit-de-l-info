@@ -10,3 +10,13 @@ __pycache__/
 *.pyo
 *.pyd
 .Python
+data/recordings/
+venv/
+data/
+segments/
+segment.mp3
+*.wav
+*.mp3
+*.ogg
+__pycache__/
+*.pyc
