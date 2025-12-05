@@ -1,8 +1,12 @@
+# Ignore recordings
+data/recordings/*.wav
+data/recordings/*.txt
+data/recordings/
+
+# Python virtual environment
 venv/
 __pycache__/
 *.pyc
-config/settings.json
-data/recordings/*
-*.db
-.vscode/
-.idea/
+*.pyo
+*.pyd
+.Python
